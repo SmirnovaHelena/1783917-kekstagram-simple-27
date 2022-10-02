@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Lena Smirnova](https://up.htmlacademy.ru/javascript/27/user/1783917).
-* Наставник: Павел Лукин (https://htmlacademy.ru/profile/id1313529).
+* Наставник: [Павел Лукин](https://htmlacademy.ru/profile/id1313529).
 
 ---
 
